@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-webflux-nosql
+  data:
+    mongodb:
+      database: 12_freddy_quispe
+      uri: mongodb+srv://freddyquispe_db_user:cNrCQUkXBYROwqAm@cluster0.ygyqtee.mongodb.net/?appName=Cluster0
+
+server:
+  port: 8082
